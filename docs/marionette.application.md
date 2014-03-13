@@ -114,7 +114,7 @@ MyApp.start(options);
 
 ## Messaging Systems
 
-Application instances have an instance of each of the three messaging systems of `Backbone.Wreqr` attached to them. This
+Application instances have an instance of each of the three [messaging systems](http://en.wikipedia.org/wiki/Message_passing) of `Backbone.Wreqr` attached to them. This
 section will give a brief overview of the systems; for a more in-depth look you are encouraged to read
 the [`Backbone.Wreqr` documentation](https://github.com/marionettejs/backbone.wreqr).
 
